@@ -24,6 +24,8 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 ## Screenshots
 
 <img width="1920" height="509" alt="image" src="https://github.com/user-attachments/assets/d9454857-c59d-4f6e-beb4-4b540a6f5718" />
+<img width="1901" height="770" alt="image" src="https://github.com/user-attachments/assets/8b699f72-a9b8-4aec-927c-080a460f0569" />
+
 
 
 ## Getting Started
